@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "mobile",
+        "price": 20
+    },
+    {
+        "id": 2,
+        "name": "laptop",
+        "price": 30
+    }
+]
